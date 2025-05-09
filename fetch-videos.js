@@ -24,7 +24,31 @@ const CHANNELS = [
 'UC45w2hxRWSdVPUHZXNl_CuQ', // ahmed elghnam
 'UCa4BGN_3s2xW3rci_v6Nphw', // BTS ARMY
 'UCJhlFKSRaF483kPayLjovyA', // C11kp
-'UC-MeFI2sQpSoi0zxavR5dLw'  // Viral Vision HD
+'UC-MeFI2sQpSoi0zxavR5dLw', // Viral Vision HD
+'UCJlumPwjk1-PStyYGhtK9yA', // Yahea Alzo3bi
+'UClCUtBCBJw1UB3PDwW_Jemg', // Sidemen
+'UCbAZH3nTxzyNmehmTUhuUsA', // SidemenShorts
+'UCDtgtjN1fq7yFEAP8iTrV2w', // randomlygoated
+'UCG98ruDeyp55THxbpBCIv3g', // Duolingo
+'UCtKdMZGVlIQXcDuETX1LvTA', // 𝐌𝐑 𝐗 𝐌𝐘𝐒𝐓𝐄𝐑𝐈𝐎
+'UCNkDZBwQM-uMEC3TrNUzRCQ', // Mut3ah
+'UCWqY4jGnjJ-A7DojRSS5F4g', // HiroGaming
+'UCFx3j0DLkcCU3aTKJnb8-Ug', // Gaming Center
+'UCqvgSFtxX7YSDbJdzhfQOOg', // Galaxeeco
+'UCFpuqadXaJdIBumC5CfyQeA', // mosalsal ibnati
+'UCOo-DTlc97oR6uvGNZGjVEg', // Sol Yanım
+'UCTt1ranoSdq6JxGcikhvRqA', // Kiraz Mevsimi
+'UCivKv4Q9HGM04Y0o8aTmZZw', // gihad hamsho
+'UCGA_iwc3t5I1dVFff54wYGA', // TheSaudiReporters
+'UCPvLEc3la6Q2MdlCXzKRRPg', // Rawan and Rayan
+'UCBjMCVOUt2MuEWS4YPzBH2g', // Hidden facts
+'UCZ7HzTBmljSCMBNRoNgHuJA', // Jessica Kaylee
+'UCvz84_Q0BbvZThy75mbd-Dg', // Zack D. Films
+'UCgPeJSMnI75Px4p5sZeIOcg', // The Fact
+'UC_JISfg0S3EBA0g4Hz0b85Q', // Knowledge Ninja
+'UCW2oS6trETa9jMN_Rb36xlg', // Cobra Strikes 2
+'UCj5fjg5xArF1WEaTmSJPE4Q', // Futbalgamerz
+'UCDWMEIEKgwHLjl2x2WdL_Jg'  // Tabark 
 ];
 
 const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
