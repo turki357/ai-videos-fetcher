@@ -3,7 +3,7 @@ const axios = require('axios');
 const { format } = require('date-fns');
 
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
-const MAX_DAILY_VIDEOS = 40;
+const MAX_DAILY_VIDEOS = 300;
 const TARGET_HOUR = 10;
 const REQUEST_DELAY = 1500;
 
