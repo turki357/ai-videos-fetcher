@@ -1,4 +1,4 @@
-name: AI Video Fetcher (Daily at 6PM Morocco Time)
+name: AI Video Fetcher (Daily at 10PM Morocco Time)
 
 on:
   schedule:
