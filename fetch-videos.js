@@ -4,7 +4,7 @@ const { format } = require('date-fns');
 
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const MAX_DAILY_VIDEOS = 40;
-const TARGET_HOUR = 18;
+const TARGET_HOUR = 10;
 const REQUEST_DELAY = 1500;
 
 const CHANNELS = [
